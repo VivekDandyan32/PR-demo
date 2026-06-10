@@ -1,2 +1,5 @@
-deleted all line to get merge conflicts
+file 1 content
+file 1 content edited
+file 1 edited 2nd time
 
+deleted all line to get merge conflicts
