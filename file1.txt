@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 deleted all line to get merge conflicts
+=======
+file 1 content
+file 1 content edited
+file 1 edited 2nd time
+>>>>>>> ef5508df0cdd5462d9fb0503a0ef1ce30189d5a8
